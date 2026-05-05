@@ -1,4 +1,4 @@
-\'import streamlit as st\' as st'
+\import streamlit as st\
 
 # --- CONFIGURATION ---
 SERVER_NAME = "MyMinehutServer"
