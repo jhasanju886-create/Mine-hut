@@ -1,5 +1,4 @@
-import tkinter as tk
-from tkinter import font, messagebox
+\'import streamlit as st\' as st'
 
 # --- CONFIGURATION ---
 SERVER_NAME = "MyMinehutServer"
